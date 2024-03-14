@@ -1,0 +1,4 @@
+Teoría/Conceptos (a papel)
+Práctica (código):
+- Aplicar FFT a una señal
+- Aplicar wavelets
